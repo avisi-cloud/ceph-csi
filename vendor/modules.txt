@@ -59,7 +59,7 @@ github.com/cenkalti/backoff/v3
 ## explicit
 github.com/ceph/ceph-csi/api/deploy/kubernetes/rbd
 github.com/ceph/ceph-csi/api/deploy/ocp
-# github.com/ceph/go-ceph v0.12.0
+# github.com/ceph/go-ceph v0.13.0
 ## explicit
 github.com/ceph/go-ceph/cephfs/admin
 github.com/ceph/go-ceph/common/commands
@@ -543,6 +543,7 @@ google.golang.org/grpc/stats
 google.golang.org/grpc/status
 google.golang.org/grpc/tap
 # google.golang.org/protobuf v1.26.0
+## explicit
 google.golang.org/protobuf/encoding/protojson
 google.golang.org/protobuf/encoding/prototext
 google.golang.org/protobuf/encoding/protowire
