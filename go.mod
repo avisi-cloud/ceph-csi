@@ -21,8 +21,8 @@ require (
 	github.com/kubernetes-csi/csi-lib-utils v0.11.0
 	github.com/kubernetes-csi/external-snapshotter/client/v6 v6.0.1
 	github.com/libopenstorage/secrets v0.0.0-20210908194121-a1d19aa9713a
-	github.com/onsi/ginkgo/v2 v2.1.4
-	github.com/onsi/gomega v1.20.0
+	github.com/onsi/ginkgo/v2 v2.1.6
+	github.com/onsi/gomega v1.20.1
 	github.com/prometheus/client_golang v1.12.2
 	github.com/stretchr/testify v1.8.0
 	golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd
@@ -38,7 +38,7 @@ require (
 	//
 	// when updating k8s.io/kubernetes, make sure to update the replace section too
 	//
-	k8s.io/kubernetes v1.25.0
+	k8s.io/kubernetes v1.25.1
 	k8s.io/mount-utils v0.25.0
 	k8s.io/utils v0.0.0-20220728103510-ee6ede2d64ed
 	sigs.k8s.io/controller-runtime v0.11.0-beta.0.0.20211208212546-f236f0345ad2

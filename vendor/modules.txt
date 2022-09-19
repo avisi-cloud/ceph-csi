@@ -430,7 +430,7 @@ github.com/munnerz/goautoneg
 # github.com/oklog/run v1.0.0
 ## explicit
 github.com/oklog/run
-# github.com/onsi/ginkgo/v2 v2.1.4
+# github.com/onsi/ginkgo/v2 v2.1.6
 ## explicit; go 1.18
 github.com/onsi/ginkgo/v2
 github.com/onsi/ginkgo/v2/config
@@ -442,7 +442,7 @@ github.com/onsi/ginkgo/v2/internal/parallel_support
 github.com/onsi/ginkgo/v2/internal/testingtproxy
 github.com/onsi/ginkgo/v2/reporters
 github.com/onsi/ginkgo/v2/types
-# github.com/onsi/gomega v1.20.0
+# github.com/onsi/gomega v1.20.1
 ## explicit; go 1.18
 github.com/onsi/gomega
 github.com/onsi/gomega/format
@@ -1234,7 +1234,7 @@ k8s.io/kubectl/pkg/util/podutils
 # k8s.io/kubelet v0.0.0 => k8s.io/kubelet v0.25.0
 ## explicit; go 1.19
 k8s.io/kubelet/pkg/apis/stats/v1alpha1
-# k8s.io/kubernetes v1.25.0
+# k8s.io/kubernetes v1.25.1
 ## explicit; go 1.19
 k8s.io/kubernetes/pkg/api/legacyscheme
 k8s.io/kubernetes/pkg/api/service
